@@ -1,12 +1,9 @@
 <h1 align="center">
-<img src="https://ibb.co/Xx1ZnTF" width="150px">
+<img src="https://i.ibb.co/k2jgLFq/login.png" width="150px">
 </h1>
 <h1 align="center">Login</h1>
 
 This project is a user registry system, with information encryption, it has an authentication system connected to a database in mysql.
-
-
-➡️[Academic Grades](https://elegant-hermann-729528.netlify.app/ "Academic Grades") ⬅️
 
 ## :computer: Language and tools
 <p align="center">
